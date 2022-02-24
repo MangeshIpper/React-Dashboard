@@ -23,7 +23,7 @@ function Topbar() {
                  <div className="topbarIconContainer">
                     <SettingsIcon />
                  </div>
-                 <img src="https://i.pinimg.com/564x/90/de/2b/90de2b0edcfd196cce7783f6dc0e4bb9.jpg" alt="" className="topAvatar" />
+                 <img src="https://i.pinimg.com/564x/eb/59/2d/eb592d3e2cbd29a1e97002bd93f4904b.jpg" alt="" className="topAvatar" />
             </div>
         </div>
     </div> 
